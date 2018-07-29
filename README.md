@@ -56,7 +56,7 @@ tba
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/thorchain/THORChain/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/thorchain/Flash-Network/blob/master/LICENSE.md) file for details
 
 ## Acknowledgments
 
