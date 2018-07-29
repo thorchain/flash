@@ -1,5 +1,5 @@
 # Flash Network
-Flash Network is a layer 2 network for instant asset exchange on THORChain. Read the whitepaper here: [Flash Network Whitepaper]()
+Flash Network is a layer 2 network for instant asset exchange on THORChain. Read the whitepaper here: [Flash Network Whitepaper](https://github.com/thorchain/Resources/tree/master/Whitepapers/Flash-Network)
 
 ## Getting Started
 
